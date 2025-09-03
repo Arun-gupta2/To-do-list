@@ -41,3 +41,27 @@ No frameworks, no backend — everything runs right in your browser and tasks ar
 ---
 
 ## 📂 Project Structure
+├── index.html # Single-page web app (HTML + CSS + JS)
+└── README.md # Project documentation
+
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (custom styling, responsive design)
+- Vanilla JavaScript (DOM + localStorage)
+
+---
+
+## 💡 Tips
+- Use `#tags` directly in your task title (e.g., “Finish report #work #urgent”).
+- Overdue tasks are highlighted in red.
+- Use the **Export** button to back up your tasks, then re-import them later.
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.  
+Feel free to use, modify, and share!
+
